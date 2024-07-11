@@ -1,12 +1,11 @@
 **Overview**
 
-O presente trabalho tem por objetivo implementar uma solução computacional para estudo e análise de um problema com dados em larga escala, envolvendo a construção de um modelo de aprendizagem automática. Os dados tratados são de grande dimensão e foram retirados da Open Data da AWS (https://registry.opendata.aws/). No desenvolvimento do presente trabalho, para além da capacidade computacional que os seus autores dispunham, foram utilizados serviços em ambiente cloud da Amazon para contexto académico: o AWS Academy. Em termos de ferramentas, o projeto foi implementado recorrendo a funcionalidades disponibilizadas pelo Apache Spark e à linguagem de programação Python. A implementação da solução teve por base a metodologia ML Pipeline, sistematizada na figura abaixo (retirada dos slides da UC):
+The present work aims to implement a computational solution for studying and analyzing a problem with large-scale data, involving the construction of a machine learning model. The data processed is large and was taken from AWS Open Data (https://registry.opendata.aws/). In the development of this work, in addition to the computational capacity that its authors had at their disposal, services in the Amazon cloud environment for academic context were used: AWS Academy. In terms of tools, the project was implemented using resources provided by Apache Spark and the Python programming language. The implementation of the solution was based on the ML Pipeline methodology, systematized in the figure below.
 
 INSERT PHOTO
 
 
-Procurar-se-á, no presente relatório, descrever resumidamente as fases de realização do trabalho, a forma de implementação do algoritmo e as principais conclusões retiradas da sua utilização. 
-
+This report will seek to describe the phases of carrying out the work, how the algorithm is implemented and the main conclusions drawn from its use.
 
 **Full Report**
 
